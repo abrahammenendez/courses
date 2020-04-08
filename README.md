@@ -7,4 +7,6 @@ Course | Rating (out of 5) | Repo
 --- | --- | ---
 [Docker - Hands On for Java Developers](https://www.udemy.com/course/docker-hands-on/) | :star: :star: :star: :star: :star: | [docker_hands_on](https://github.com/abrahammenendez/docker_hands_on)
 [RESTful Web Services, Java, Spring Boot, Spring MVC and JPA](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql/) | :star: :star: :star: :star: | -
+[Apache Kafka Series - Learn Apache Kafka for Beginners](https://www.udemy.com/course/apache-kafka/) | :star: :star: :star: :star: | -
+[Spring Boot Microservices With Spring Cloud](https://www.udemy.com/course/spring-boot-microservices-and-spring-cloud/) | :star: :star: :star: :star: | -
 [Spring Interview Guide](https://www.udemy.com/course/spring-interview-questions-and-answers/) | :star: :star: :star: | -
