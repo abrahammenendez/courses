@@ -1,6 +1,10 @@
 **What is this?**
 
-A rated list of all the courses I've taken since 2019. If you want to read a small review, I usually write one in the repo's README :)
+For the past six years I've taken a lot of courses in my free time. Sadly, I never thought about compiling them into a list. Since 2019, I've been trying to write down (and rate) every new course I take.
+
+So here it is! A rated list of all the courses I've taken since 2019.
+
+If you want to read a small review, I usually write one in the repo's README :)
 
 **List**
 Course | Rating (out of 5) | Repo
