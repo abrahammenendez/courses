@@ -7,7 +7,7 @@ So here it is! A rated list of all the courses I've taken since 2019.
 If you want to read a small review, there is usually one in the repo's README :)
 
 **List**
-Course | Length | Rating (out of 5) | Repo
+Course | Length | Rating (1-5) | Repo
 --- | --- | --- | ---
 [Docker - Hands On for Java Developers](https://www.udemy.com/course/docker-hands-on/) | 9h | :star: :star: :star: :star: :star: | [docker_hands_on](https://github.com/abrahammenendez/docker_hands_on)
 [JavaScript 30](https://javascript30.com/) | 8h | :star: :star: :star: :star: | [javascript_30](https://github.com/abrahammenendez/javascript_30)
