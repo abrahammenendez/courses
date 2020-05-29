@@ -14,4 +14,5 @@ Course | Length | Rating (1 - 5) | Repo
 [Complete Guide to Protocol Buffers 3](https://www.udemy.com/course/protocol-buffers/) | 4h | :star: :star: :star: :star: | [protobufs_complete_guide](https://github.com/abrahammenendez/protobufs_complete_guide)
 [gRPC Master Class: Build Modern API & Micro services](https://www.udemy.com/course/grpc-java/) | 5h | :star: :star: :star: :star: | [grpc_masterclass](https://github.com/abrahammenendez/grpc_masterclass)
 [Spring Boot Microservices with Spring Cloud](https://www.udemy.com/course/spring-boot-microservices-and-spring-cloud/) | 16h | :star: :star: :star: :star: | [spring_cloud_microservices](https://github.com/abrahammenendez/spring_cloud_microservices)
+[Java Application Performance and Memory Management](https://www.udemy.com/course/java-application-performance-and-memory-management/) | 10h | :star: :star: :star: :star: | -
 [RESTful Web Services, Java, Spring Boot, Spring MVC and JPA](https://www.udemy.com/course/restful-web-service-with-spring-boot-jpa-and-mysql/) | 23h | :star: :star: :star: | -
